@@ -8,4 +8,4 @@
 
 [![Build Status](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_apis/build/status/DavidEggenberger.WebsitePersonal?branchName=main)](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_build/latest?definitionId=6&branchName=main)
 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&theme=blue-green)
