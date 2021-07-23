@@ -10,4 +10,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DavidEggenberger)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=synthwave)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=prussian)
