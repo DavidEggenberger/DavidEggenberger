@@ -6,4 +6,6 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/DavidEggenbergr?style=social)
 
+[![Build Status](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_apis/build/status/DavidEggenberger.WebsitePersonal?branchName=main)](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_build/latest?definitionId=6&branchName=main)
+
 
