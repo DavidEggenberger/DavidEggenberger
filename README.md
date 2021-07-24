@@ -12,4 +12,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DavidEggenberger)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=prussian)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEggenberger&show_icons=true&theme=radical)
