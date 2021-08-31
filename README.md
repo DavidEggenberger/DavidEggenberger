@@ -1,6 +1,6 @@
 <h1>Lifelong Learner</h1>
 
-<h3>Constantly learning: ASP.NET Core, Blazor, C#, EF Core</h3>
+<h3>Constantly learning: ASP.NET Core, Blazor, <a href="https://github.com/DavidEggenberger/CSharpCoolFeatures">C#</a>, EF Core</h3>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjF3nhEiIUdXZ-XIuF_ys1g?style=social)
 
@@ -12,4 +12,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=DavidEggenberger)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=github_dark)
