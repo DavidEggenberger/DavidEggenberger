@@ -1,4 +1,4 @@
-<h3>Lifelong learning: ASP.NET Core, Blazor, C#, EF Core</h3>
+<h2>Follow me on my lifelong journey learning: ASP.NET Core, Blazor and C#</h2>
 
 <a href="https://www.davideggenberger.net">![Homepage David Eggenberger](https://shields.io/badge/-Homepage-blueviolet)</a>
 
