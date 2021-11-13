@@ -10,4 +10,16 @@
 
 [![Build Status](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_apis/build/status/DavidEggenberger.WebsitePersonal?branchName=main)](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_build/latest?definitionId=6&branchName=main)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEggenberger&layout=compact&theme=github_dark)
+<table>
+  <tr><th colspan="3">Hackathon projects</th></tr>
+  <tr>
+    <th>Hackathon</th>
+    <th>Repository</th>
+    <th>Objective</th>
+  </tr>
+  <tr>
+    <td>OpenData Hack St.Gallen</td>
+    <td><a href="https://github.com/DavidEggenberger/HackathonSnorkelSG">SnorkelSG</a></td>
+    <td>Promoting local tourism</td>
+  </tr>
+</table>
