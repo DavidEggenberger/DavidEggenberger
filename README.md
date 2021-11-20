@@ -21,4 +21,9 @@
     <td><a href="https://github.com/DavidEggenberger/HackathonSnorkelSG">SnorkelSG</a></td>
     <td>Promoting local tourism</td>
   </tr>
+   <tr>
+    <td>Garuda Hacks v2.0</td>
+    <td><a href="https://github.com/DavidEggenberger/HackathonTeamTurtle">TeamTurtle</a></td>
+    <td>Inclusive learning platform</td>
+  </tr>
 </table>
