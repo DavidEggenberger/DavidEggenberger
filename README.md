@@ -25,9 +25,4 @@
     <td><a href="https://github.com/DavidEggenberger/HackathonTeamTurtle">TeamTurtle</a></td>
     <td>Inclusive learning platform</td>
   </tr>
-   <tr>
-    <td>Give Back Hacks 2.0</td>
-    <td><a href="https://github.com/DavidEggenberger/HackathonCoderClan">CoderClan</a></td>
-    <td>Social network for coders</td>
-  </tr>
 </table>
