@@ -26,3 +26,21 @@
     <td>Inclusive learning platform</td>
   </tr>
 </table>
+<table>
+  <tr><th colspan="3">ASP.NET Core + Blazor Authentication Showcase</th></tr>
+  <tr>
+    <th>Scenario</th>
+    <th>Repository</th>
+    <th>Features</th>
+  </tr>
+  <tr>
+    <td>IdentityServer 4</td>
+    <td><a href="https://github.com/DavidEggenberger/BlazorChat">BlazorChat</a></td>
+    <td>2FA, chat, social logins</td>
+  </tr>
+   <tr>
+    <td>Backend For Frontend</td>
+    <td><a href="https://github.com/DavidEggenberger/BlazorVideoChat">BlazorVideoChat</a></td>
+    <td>Video chat, social logins</td>
+  </tr>
+</table>
