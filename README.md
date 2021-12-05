@@ -25,6 +25,11 @@
     <td><a href="https://github.com/DavidEggenberger/HackathonTeamTurtle">TeamTurtle</a></td>
     <td>Inclusive learning platform</td>
   </tr>
+  <tr>
+    <td>KentHackEnough</td>
+    <td><a href="https://github.com/DavidEggenberger/HackathonCoderClan">CoderClan</a></td>
+    <td>Social network for coders</td>
+  </tr>
 </table>
 <table>
   <tr><th colspan="3">ASP.NET Core + Blazor Authentication Showcase</th></tr>
@@ -38,5 +43,9 @@
     <td><a href="https://github.com/DavidEggenberger/BlazorChat">BlazorChat</a></td>
     <td>2FA, chat, social logins</td>
   </tr>
-  
+   <tr>
+    <td>Backend For Frontend</td>
+    <td><a href="https://github.com/DavidEggenberger/BlazorVideoChat">BlazorVideoChat</a></td>
+    <td>Video chat, social logins</td>
+  </tr>
 </table>
