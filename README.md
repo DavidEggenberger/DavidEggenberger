@@ -26,7 +26,7 @@
     <td>Inclusive learning platform</td>
   </tr>
   <tr>
-    <td>KentHackEnough</td>
+    <td>KentHackEnough 24h</td>
     <td><a href="https://github.com/DavidEggenberger/HackathonCoderClan">CoderClan</a></td>
     <td>Social network for coders</td>
   </tr>
