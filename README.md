@@ -29,6 +29,11 @@
     <td><a href="https://github.com/DavidEggenberger/HackathonCoderClan">CoderClan</a></td>
     <td>Social network for coders</td>
   </tr>
+   <tr>
+    <td>Cloud Native Hackathon</td>
+    <td><a href="https://github.com/DavidEggenberger/HackathonLearnLive">LearnLive</a></td>
+    <td>Learning per VideoChat</td>
+  </tr>
 </table>
 <table>
   <tr><th colspan="3">ASP.NET Core + Blazor Authentication Showcase</th></tr>
