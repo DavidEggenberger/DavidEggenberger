@@ -35,16 +35,4 @@
     <td>Learning per VideoChat</td>
   </tr>
 </table>
-<table>
-  <tr><th colspan="3">ASP.NET Core + Blazor Authentication Showcase</th></tr>
-  <tr>
-    <th>Scenario</th>
-    <th>Repository</th>
-    <th>Features</th>
-  </tr>
-  <tr>
-    <td>IdentityServer 4</td>
-    <td><a href="https://github.com/DavidEggenberger/BlazorChat">BlazorChat</a></td>
-    <td>2FA, chat, social logins</td>
-  </tr>
-</table>
+
