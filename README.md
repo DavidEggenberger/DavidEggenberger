@@ -3,7 +3,7 @@
 <a href="https://www.davideggenberger.net">![Homepage David Eggenberger](https://shields.io/badge/-Homepage-blueviolet)</a>
 [![Build Status](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_apis/build/status/DavidEggenberger.WebsitePersonal?branchName=main)](https://dev.azure.com/DavidEggenbergerMLSA/WebsitePersonal/_build/latest?definitionId=6&branchName=main)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjF3nhEiIUdXZ-XIuF_ys1g?style=social)
+<a href="https://www.youtube.com/c/DavidSeesSharp">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjF3nhEiIUdXZ-XIuF_ys1g?style=social)</a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/DavidEggenbergr?style=social)
 
 <table>
