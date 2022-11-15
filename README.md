@@ -32,5 +32,10 @@
     <td><a href="https://github.com/DavidEggenberger/HackathonLearnLive">LearnLive</a></td>
     <td>Learning per VideoChat</td>
   </tr>
+  <tr>
+    <td>OpenData Hack St.Galle</td>
+    <td><a href="https://github.com/DavidEggenberger/VadianVibes">VadianVibes</a></td>
+    <td>Voice-Control Service Desk</td>
+  </tr>
 </table>
 
