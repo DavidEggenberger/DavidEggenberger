@@ -34,8 +34,8 @@
   </tr>
   <tr>
     <td>OpenData Hack St.Gallen</td>
-    <td><a href="https://github.com/DavidEggenberger/VadianVibes">VadianVibes</a></td>
-    <td>Voice-Control Service Desk</td>
+    <td><a href="https://github.com/DavidEggenberger/ProjektAnalyseOnline">ProjectAnalysis</a></td>
+    <td>Project Management Tool</td>
   </tr>
 </table>
 
