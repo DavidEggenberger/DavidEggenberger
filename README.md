@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/davideggenbergr/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn--blue?logo=linkedin&amp;style=social" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/davideggenbergr/" rel="nofollow">![Homepage David Eggenberger](https://shields.io/badge/-LinkedIn-blue)</a>
 <a href="https://www.youtube.com/c/DavidSeesSharp">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjF3nhEiIUdXZ-XIuF_ys1g?style=social)</a>
 
 <a href="https://www.davideggenberger.net">![Homepage David Eggenberger](https://shields.io/badge/-MyStartup-blue)</a>
