@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/davideggenbergr/" rel="nofollow">![Homepage David Eggenberger](https://shields.io/badge/-LinkedIn-blue)</a>
 <a href="https://www.youtube.com/c/DavidSeesSharp">![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCjF3nhEiIUdXZ-XIuF_ys1g?style=social)</a>
 
-<a href="https://www.davideggenberger.net">![Homepage David Eggenberger](https://shields.io/badge/-MyStartup-blue)</a>
+<a href="https://www.lakelearn.com">![Homepage David Eggenberger](https://shields.io/badge/-MyStartup-blue)</a>
 ![Twitter Follow](https://img.shields.io/twitter/follow/DavidEggenbergr?style=social)
 
 <table>
